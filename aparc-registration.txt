@@ -96,7 +96,7 @@ function handleUserInput() {
 }
 
 function insertCat(k, target) {
-  var newDiv = document.createElement('div')
+  const newDiv = document.createElement('div')
   newDiv.classList.add('program-select')
 
   newDiv.innerHTML =
