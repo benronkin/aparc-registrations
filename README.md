@@ -1,1 +1,1 @@
-This rep contains the files used in APARC Newsletter registration form.
+This rep contains the HTML and JS files used in APARC Newsletter registration form. Note that this repo also hosts the JS file for the production HTML page via GitHub Pages, so deleting or renaming this repo will break Production.
